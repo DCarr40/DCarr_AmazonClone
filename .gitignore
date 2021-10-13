@@ -105,3 +105,9 @@ dist
 
 # DS_Store
 .DS_Store
+
+#frontend package.json
+frontend/package.json
+
+#frontend package-lock.json
+frontend/package-lock.json
