@@ -1,12 +1,11 @@
 import React from "react";
-import "./style.css";
 
 function HomePage() {
   return (
-    <div class="grid-container">
-      <header class="row">
+    <div className="grid-container">
+      <header className="row">
         <div>
-          <a class="brand" href="index.html">
+          <a className="brand" href="index.html">
             DCarrAmazonClone
           </a>
         </div>
@@ -18,407 +17,407 @@ function HomePage() {
       </header>
 
       <main>
-        <div class="row center">
-          <div class="card">
+        <div className="row center">
+          <div className="card">
             <a href="product.html">
               {/* image size should be 680 x 830 px*/}
               <img
-                class="medium"
-                src="../../../image/captainAmericaFigure"
-                alt="product"
-              />
-            </a>
-            <div class="card-body">
-              <a href="product.html">
-                <h2>Captain America Figure</h2>
-              </a>
-              <div class="rating">
-                <span>
-                  <i class="fa fa-star"></i>
-                </span>
-                <span>
-                  <i class="fa fa-star"></i>
-                </span>
-                <span>
-                  <i class="fa fa-star"></i>
-                </span>
-                <span>
-                  <i class="fa fa-star"></i>
-                </span>
-                <span>
-                  <i class="fa fa-star"></i>
-                </span>
-              </div>
-              <div class="price">$65</div>
-            </div>
-          </div>
-          <div class="card">
-            <a href="product.html">
-              {/* image size should be 680 x 830 px*/}
-              <img
-                class="medium"
+                className="medium"
                 src="./images/captainAmericaFigure.jpeg"
                 alt="product"
               />
             </a>
-            <div class="card-body">
+            <div className="card-body">
               <a href="product.html">
                 <h2>Captain America Figure</h2>
               </a>
-              <div class="rating">
+              <div className="rating">
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
               </div>
-              <div class="price">$65</div>
+              <div className="price">$65</div>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <a href="product.html">
               {/* image size should be 680 x 830 px*/}
               <img
-                class="medium"
+                className="medium"
                 src="./images/captainAmericaFigure.jpeg"
                 alt="product"
               />
             </a>
-            <div class="card-body">
+            <div className="card-body">
               <a href="product.html">
                 <h2>Captain America Figure</h2>
               </a>
-              <div class="rating">
+              <div className="rating">
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
               </div>
-              <div class="price">$65</div>
+              <div className="price">$65</div>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <a href="product.html">
               {/* image size should be 680 x 830 px*/}
               <img
-                class="medium"
+                className="medium"
                 src="./images/captainAmericaFigure.jpeg"
                 alt="product"
               />
             </a>
-            <div class="card-body">
+            <div className="card-body">
               <a href="product.html">
                 <h2>Captain America Figure</h2>
               </a>
-              <div class="rating">
+              <div className="rating">
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
               </div>
-              <div class="price">$65</div>
+              <div className="price">$65</div>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <a href="product.html">
               {/* image size should be 680 x 830 px*/}
               <img
-                class="medium"
+                className="medium"
                 src="./images/captainAmericaFigure.jpeg"
                 alt="product"
               />
             </a>
-            <div class="card-body">
+            <div className="card-body">
               <a href="product.html">
                 <h2>Captain America Figure</h2>
               </a>
-              <div class="rating">
+              <div className="rating">
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
               </div>
-              <div class="price">$65</div>
+              <div className="price">$65</div>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <a href="product.html">
               {/* image size should be 680 x 830 px*/}
               <img
-                class="medium"
+                className="medium"
                 src="./images/captainAmericaFigure.jpeg"
                 alt="product"
               />
             </a>
-            <div class="card-body">
+            <div className="card-body">
               <a href="product.html">
                 <h2>Captain America Figure</h2>
               </a>
-              <div class="rating">
+              <div className="rating">
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
               </div>
-              <div class="price">$65</div>
+              <div className="price">$65</div>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <a href="product.html">
               {/* image size should be 680 x 830 px*/}
               <img
-                class="medium"
+                className="medium"
                 src="./images/captainAmericaFigure.jpeg"
                 alt="product"
               />
             </a>
-            <div class="card-body">
+            <div className="card-body">
               <a href="product.html">
                 <h2>Captain America Figure</h2>
               </a>
-              <div class="rating">
+              <div className="rating">
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
               </div>
-              <div class="price">$65</div>
+              <div className="price">$65</div>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <a href="product.html">
               {/* image size should be 680 x 830 px*/}
               <img
-                class="medium"
+                className="medium"
                 src="./images/captainAmericaFigure.jpeg"
                 alt="product"
               />
             </a>
-            <div class="card-body">
+            <div className="card-body">
               <a href="product.html">
                 <h2>Captain America Figure</h2>
               </a>
-              <div class="rating">
+              <div className="rating">
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
               </div>
-              <div class="price">$65</div>
+              <div className="price">$65</div>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <a href="product.html">
               {/* image size should be 680 x 830 px*/}
               <img
-                class="medium"
+                className="medium"
                 src="./images/captainAmericaFigure.jpeg"
                 alt="product"
               />
             </a>
-            <div class="card-body">
+            <div className="card-body">
               <a href="product.html">
                 <h2>Captain America Figure</h2>
               </a>
-              <div class="rating">
+              <div className="rating">
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
               </div>
-              <div class="price">$65</div>
+              <div className="price">$65</div>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <a href="product.html">
               {/* image size should be 680 x 830 px*/}
               <img
-                class="medium"
+                className="medium"
                 src="./images/captainAmericaFigure.jpeg"
                 alt="product"
               />
             </a>
-            <div class="card-body">
+            <div className="card-body">
               <a href="product.html">
                 <h2>Captain America Figure</h2>
               </a>
-              <div class="rating">
+              <div className="rating">
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
               </div>
-              <div class="price">$65</div>
+              <div className="price">$65</div>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <a href="product.html">
               {/* image size should be 680 x 830 px*/}
               <img
-                class="medium"
+                className="medium"
                 src="./images/captainAmericaFigure.jpeg"
                 alt="product"
               />
             </a>
-            <div class="card-body">
+            <div className="card-body">
               <a href="product.html">
                 <h2>Captain America Figure</h2>
               </a>
-              <div class="rating">
+              <div className="rating">
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
               </div>
-              <div class="price">$65</div>
+              <div className="price">$65</div>
             </div>
           </div>
-          <div class="card">
+          <div className="card">
             <a href="product.html">
               {/* image size should be 680 x 830 px*/}
               <img
-                class="medium"
+                className="medium"
                 src="./images/captainAmericaFigure.jpeg"
                 alt="product"
               />
             </a>
-            <div class="card-body">
+            <div className="card-body">
               <a href="product.html">
                 <h2>Captain America Figure</h2>
               </a>
-              <div class="rating">
+              <div className="rating">
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
                 <span>
-                  <i class="fa fa-star"></i>
+                  <i className="fa fa-star"></i>
                 </span>
               </div>
-              <div class="price">$65</div>
+              <div className="price">$65</div>
+            </div>
+          </div>
+          <div className="card">
+            <a href="product.html">
+              {/* image size should be 680 x 830 px*/}
+              <img
+                className="medium"
+                src="./images/captainAmericaFigure.jpeg"
+                alt="product"
+              />
+            </a>
+            <div className="card-body">
+              <a href="product.html">
+                <h2>Captain America Figure</h2>
+              </a>
+              <div className="rating">
+                <span>
+                  <i className="fa fa-star"></i>
+                </span>
+                <span>
+                  <i className="fa fa-star"></i>
+                </span>
+                <span>
+                  <i className="fa fa-star"></i>
+                </span>
+                <span>
+                  <i className="fa fa-star"></i>
+                </span>
+                <span>
+                  <i className="fa fa-star"></i>
+                </span>
+              </div>
+              <div className="price">$65</div>
             </div>
           </div>
         </div>
       </main>
 
-      <footer class="row center">All Rights Reserved</footer>
+      <footer className="row center">All Rights Reserved</footer>
     </div>
   );
 }
